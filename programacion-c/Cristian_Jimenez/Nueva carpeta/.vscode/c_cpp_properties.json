@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "windows-esp32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/MAKIM/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.10/cores/esp32",
+        "C:/Users/MAKIM/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.10/variants/esp32",
+        "C:/Users/MAKIM/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.10/tools/**"
+      ],
+      "compilerPath": "C:/TDM-GCC-64/bin/gcc.exe",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}
