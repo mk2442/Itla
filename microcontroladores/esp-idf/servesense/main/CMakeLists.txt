@@ -1,0 +1,20 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "hx711.c"
+        "lm35.c"
+        "rgb_led.c"
+        "vibration.c"
+        "ttp223.c"
+        "console.c"
+        "app_logic.c"
+    INCLUDE_DIRS "."
+    REQUIRES
+        driver
+        esp_driver_gpio
+        esp_driver_uart
+        esp_adc
+        nvs_flash
+        freertos
+        log
+)

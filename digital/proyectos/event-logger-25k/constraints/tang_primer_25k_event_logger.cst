@@ -1,0 +1,76 @@
+// ============================================================
+// Tang Primer 25K - Event Logger (challenge_top) constraints
+// Mapeo de pines segun material de referencia entregado
+// ============================================================
+
+// --- Reloj 27 MHz ---
+IO_LOC  "i_clk"      E2;
+IO_PORT "i_clk"       IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+
+// --- Reset ---
+IO_LOC  "i_rst_n"    L5;
+IO_PORT "i_rst_n"     IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+
+// --- Botones (activos en bajo) ---
+IO_LOC  "i_button[0]" H10;  // btn_arm_n
+IO_PORT "i_button[0]" IO_TYPE=LVCMOS33 PULL_MODE=DOWN BANK_VCCIO=3.3;
+IO_LOC  "i_button[1]" H11;  // btn_cap_n
+IO_PORT "i_button[1]" IO_TYPE=LVCMOS33 PULL_MODE=DOWN BANK_VCCIO=3.3;
+IO_LOC  "i_button[2]" E11;  // btn_tx_n
+IO_PORT "i_button[2]" IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+IO_LOC  "i_button[3]" K11;  // btn_clr_n
+IO_PORT "i_button[3]" IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+
+// --- Switches ---
+IO_LOC  "i_switch[0]" A10;
+IO_PORT "i_switch[0]" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+IO_LOC  "i_switch[1]" E10;
+IO_PORT "i_switch[1]" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+IO_LOC  "i_switch[2]" L11;
+IO_PORT "i_switch[2]" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+IO_LOC  "i_switch[3]" K5;
+IO_PORT "i_switch[3]" IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+
+// --- LEDs ---
+IO_LOC  "o_led[0]"    H5;
+IO_PORT "o_led[0]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_led[1]"    H8;
+IO_PORT "o_led[1]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_led[2]"    G7;
+IO_PORT "o_led[2]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_led[3]"    F5;
+IO_PORT "o_led[3]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_led[4]"    J5;
+IO_PORT "o_led[4]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_led[5]"    H7;
+IO_PORT "o_led[5]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_led[6]"    G8;
+IO_PORT "o_led[6]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_led[7]"    G5;
+IO_PORT "o_led[7]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// --- Display 7 segmentos: o_seg[6]=A, [5]=B, [4]=C, [3]=D, [2]=E, [1]=F, [0]=G ---
+IO_LOC  "o_seg[6]"    G11;  // a
+IO_PORT "o_seg[6]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_seg[5]"    D11;  // b
+IO_PORT "o_seg[5]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_seg[4]"    B11;  // c
+IO_PORT "o_seg[4]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_seg[3]"    C11;  // d
+IO_PORT "o_seg[3]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_seg[2]"    G10;  // e
+IO_PORT "o_seg[2]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_seg[1]"    D10;  // f
+IO_PORT "o_seg[1]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_seg[0]"    B10;  // g
+IO_PORT "o_seg[0]" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// --- Enables de display (dos digitos): o_sel = unidades, o_sel2 = decenas ---
+IO_LOC  "o_sel"       C10;  // enable1 (unidades)
+IO_PORT "o_sel"       IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_LOC  "o_sel2"      A11;  // enable2 (decenas)
+IO_PORT "o_sel2"      IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// --- UART TX ---
+IO_LOC  "o_uart_tx"   C3;
+IO_PORT "o_uart_tx"   IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;

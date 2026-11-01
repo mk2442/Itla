@@ -10,5 +10,6 @@ Repositorio de proyectos y prácticas.
 | `electronica/` | Proyectos de electrónica: placa ESP32-DEVKITV1 (librerías y documentación) y PHM-30A (KiCad) |
 | `programacion-c/` | Ejercicios y prácticas en lenguaje C, organizados por capítulo y proyecto |
 | `digital/` | Circuitos digitales: proyectos (Gowin, KiCad, Proteus, RC), impresión 3D y documentos de clase |
+| `microcontroladores/` | Proyectos de microcontroladores: ESP-IDF (ESP32) y Arduino |
 
 Los archivos de compilación, binarios y configuración local del IDE no se incluyen.
