@@ -1,0 +1,11 @@
+module or_module(
+    input  A1, B1, output Y1,
+    input  A2, B2, output Y2,
+    input  A3, B3, output Y3,
+    input  A4, B4, output Y4
+);
+    or (Y1, A1, B1);
+    or (Y2, A2, B2);
+    or (Y3, A3, B3);
+    or (Y4, A4, B4);
+endmodule

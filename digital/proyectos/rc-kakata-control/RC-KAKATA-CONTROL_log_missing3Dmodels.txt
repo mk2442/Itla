@@ -1,0 +1,101 @@
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+Resistors_SMD.3dshapes/R_0603.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x6.2.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+[('R12', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R11', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R10', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R9', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('LED4', '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl'), ('LED3', '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl'), ('LED2', '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl'), ('LED1', '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl'), ('J7', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J17', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('U2', '${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.wrl'), ('U1', '${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.wrl'), ('R8', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R8', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R7', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R7', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R6', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R6', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R5', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R5', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R4', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R4', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R3', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R3', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R2', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R2', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R1', 'Resistors_SMD.3dshapes/R_0603.wrl'), ('R1', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('J24', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock_CUI.3dshapes\\TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal.step'), ('J23', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J21', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J19', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J16', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock_CUI.3dshapes\\TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal.step'), ('J13', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J11', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J9', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J5', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('J3', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock_CUI.3dshapes\\TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal.step'), ('J2', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.step'), ('C24', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C23', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x6.2.wrl'), ('C22', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C21', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C20', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C19', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C18', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C17', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C16', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C15', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C14', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C13', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C12', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C11', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C10', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C9', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C8', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C7', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C6', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C5', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C4', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C3', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C2', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step'), ('C1', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step')]
