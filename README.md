@@ -7,7 +7,7 @@ Repositorio de proyectos y prácticas.
 | Carpeta | Contenido |
 |---|---|
 | `solid/` | Diseños en SolidWorks: piezas, ensambles, planos y archivos de impresión 3D |
-| `electronica/` | Proyectos de electrónica: placa ESP32-DEVKITV1 (librerías y documentación) y PHM-30A (KiCad) |
+| `electronica/` | Proyectos de electrónica: placa ESP32-DEVKITV1 (librerías y documentación), PHM-30A y carrito (KiCad) |
 | `programacion-c/` | Ejercicios y prácticas en lenguaje C, organizados por capítulo y proyecto |
 | `digital/` | Circuitos digitales: proyectos (Gowin, KiCad, Proteus, RC), impresión 3D y documentos de clase |
 | `microcontroladores/` | Proyectos de microcontroladores: ESP-IDF (ESP32) y Arduino |
